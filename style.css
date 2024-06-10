@@ -1,0 +1,69 @@
+.hamma{
+    padding: 30px;
+    margin: 30px;
+}
+.boshi{
+display: flex;
+justify-content: space-between;
+}
+.shadow{
+    width: 600;
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+}
+.ul{
+    display: flex;
+    justify-content: space-between;
+    width: 600px;
+}
+.shadowtext{
+    text-shadow: 5px 5px 8px red;
+}
+.asos{
+    width: 700px;
+}
+.qator1{
+    display: flex;
+    justify-content: space-between;
+}
+.qator2{
+    display: flex;
+    justify-content: space-between;
+}
+.qator3{
+    display: flex;
+    justify-content: space-between;
+}
+.box{
+width: 160px;
+height: 160px;
+}
+.box1{
+    box-shadow: greenyellow 0px 14px 28px, greenyellow 0px 10px 10px;
+}
+.box2{
+    box-shadow: darkgrey 0px 14px 18px, darkgray 0px 10px 10px;
+}
+.box3{
+    box-shadow: tomato 0px 14px 25px, tomato 0px 10px 10px;
+}
+.box4{
+    box-shadow: lawngreen 0px 14px 15px, lawngreen 0px 10px 10px;
+}
+.box5{
+    box-shadow: fuchsia 0px 14px 20px, fuchsia 0px 10px 10px;
+}
+.box6{
+    box-shadow: red 0px 14px 19px, red 0px 10px 10px;
+}
+.box7{
+    box-shadow: blue 0px 14px 28px, blue 0px 10px 10px;
+}
+.box8{
+    box-shadow: darkorange 0px 14px 22px, darkorange 0px 10px 10px;
+}
+.box9{
+    box-shadow: gold 0px 14px 14px, gold 0px 10px 10px;
+}
